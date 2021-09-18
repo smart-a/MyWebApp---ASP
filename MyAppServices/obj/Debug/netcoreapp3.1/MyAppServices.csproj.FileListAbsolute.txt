@@ -1,0 +1,12 @@
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\MyWebApp - ASP\MyAppServices\bin\Debug\netcoreapp3.1\MyAppServices.deps.json
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\MyWebApp - ASP\MyAppServices\bin\Debug\netcoreapp3.1\MyAppServices.dll
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\MyWebApp - ASP\MyAppServices\bin\Debug\netcoreapp3.1\MyAppServices.pdb
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\MyWebApp - ASP\MyAppServices\bin\Debug\netcoreapp3.1\MyAppData.dll
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\MyWebApp - ASP\MyAppServices\bin\Debug\netcoreapp3.1\MyAppData.pdb
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\MyWebApp - ASP\MyAppServices\obj\Debug\netcoreapp3.1\MyAppServices.csproj.AssemblyReference.cache
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\MyWebApp - ASP\MyAppServices\obj\Debug\netcoreapp3.1\MyAppServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\MyWebApp - ASP\MyAppServices\obj\Debug\netcoreapp3.1\MyAppServices.AssemblyInfoInputs.cache
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\MyWebApp - ASP\MyAppServices\obj\Debug\netcoreapp3.1\MyAppServices.AssemblyInfo.cs
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\MyWebApp - ASP\MyAppServices\obj\Debug\netcoreapp3.1\MyAppServices.csproj.CoreCompileInputs.cache
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\MyWebApp - ASP\MyAppServices\obj\Debug\netcoreapp3.1\MyAppServices.dll
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\MyWebApp - ASP\MyAppServices\obj\Debug\netcoreapp3.1\MyAppServices.pdb

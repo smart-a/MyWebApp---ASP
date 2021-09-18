@@ -1,0 +1,13 @@
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\MyWebApp - ASP\MyAppData\bin\Debug\netcoreapp3.1\MyAppData.deps.json
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\MyWebApp - ASP\MyAppData\bin\Debug\netcoreapp3.1\MyAppData.runtimeconfig.json
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\MyWebApp - ASP\MyAppData\bin\Debug\netcoreapp3.1\MyAppData.runtimeconfig.dev.json
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\MyWebApp - ASP\MyAppData\bin\Debug\netcoreapp3.1\MyAppData.dll
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\MyWebApp - ASP\MyAppData\bin\Debug\netcoreapp3.1\MyAppData.pdb
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\MyWebApp - ASP\MyAppData\obj\Debug\netcoreapp3.1\MyAppData.csproj.AssemblyReference.cache
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\MyWebApp - ASP\MyAppData\obj\Debug\netcoreapp3.1\MyAppData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\MyWebApp - ASP\MyAppData\obj\Debug\netcoreapp3.1\MyAppData.AssemblyInfoInputs.cache
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\MyWebApp - ASP\MyAppData\obj\Debug\netcoreapp3.1\MyAppData.AssemblyInfo.cs
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\MyWebApp - ASP\MyAppData\obj\Debug\netcoreapp3.1\MyAppData.csproj.CoreCompileInputs.cache
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\MyWebApp - ASP\MyAppData\obj\Debug\netcoreapp3.1\MyAppData.dll
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\MyWebApp - ASP\MyAppData\obj\Debug\netcoreapp3.1\MyAppData.pdb
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\MyWebApp - ASP\MyAppData\obj\Debug\netcoreapp3.1\MyAppData.genruntimeconfig.cache
